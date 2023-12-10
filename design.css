@@ -1,0 +1,36 @@
+      .main{
+         width: 400px;
+         height: 450px;
+         background-color: black;
+         position: fixed;
+         left: 500px;
+         top: 75px;
+         padding: 20px 0px 0px 100px;
+         border-radius: 30px;
+         color: rgb(255, 255, 255);
+      }
+      p{
+         color: white;
+         font-size: 25px;
+         font-family: sans-serif;
+      }
+      h1{
+         color: rgb(206, 225, 65)225, 65);
+      }
+      input{
+         height: 33px;
+         width: 70%;
+         background-color: rgb(221, 223, 221);
+         font-size: 20px;
+         color: rgb(19, 15, 15);
+         padding: 7px;
+      }
+      #calculate_op{
+         color: rgb(120, 38, 3855, 255, 255);
+         font-size: 20px;
+         width: 100px;
+         align-content: center;
+         margin-left:100px;
+         cursor: pointer;
+         border-radius: 10px;
+      }
